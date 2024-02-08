@@ -4,6 +4,7 @@ PicoMiteVGA V5.09.00b0<p>
 
 ALL SOURCE FILES IN THE PICOMITE REPOSITORY
 Just substitute the cmake file to build this variant
+NB: TinyUSB 0.16.0 is needed for USB builds
 
 The design files for the PCB are also included
 
