@@ -1,5 +1,15 @@
 # PicoMiteVGAUSB
 
+V1.1 PCB files now posted
+Changes are:
+go back to a 8-pin DS3231 as those are both cheaper and in stock. 
+replace edge connector with one that is in stock and reverse the pin-1 end. 
+Isolate audio ground to reduce noise floor of audio output. 
+Reduce the number of "extended" range components to reduce cost. 
+3.81mm speaker screw terminals rather than 2.54mm.
+
+
+
 PicoMiteVGA V5.09.00b0<p>
 
 ALL SOURCE FILES IN THE PICOMITE REPOSITORY<p>
