@@ -10,7 +10,7 @@ Reduce the number of "extended" range components to reduce cost.
 
 
 
-PicoMiteVGA V5.09.00b0<p>
+PicoMiteVGA V5.09.00RC3<p>
 
 ALL SOURCE FILES IN THE PICOMITE REPOSITORY<p>
 Just substitute the cmake file to build this variant<p>
